@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.A{
+  background-image: url("24\(2\).jpeg");
+  width: 100%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.head{
+    background-color: rgb(79, 53, 175,1);
+    width: 100%px;
+    height:40px;
+}
+.head a{
+    text-decoration: none;
+    color:rgb(147, 139, 139);
+    padding-left: 10px;
+}
+.img2{
+ width: 30px;
+ height: 30px;
+ border-radius: 50px;
+}
+ .B{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+ }
+ .C{
+    background-color: yellow;
+    width: 300px;
+    height: 50px;
+    opacity: .5;
+    margin-top: 25px;
+ }
+ .D{
+    text-align: center;
+ }
+ .E{
+    background-color:rgb(236, 121, 213);
+    width:500px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+ }
+ .F{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 800;
+    
+ }
+ .G{
+    text-align: center;
+    font-family:'Allura';
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+ }
+ .H{
+    background-color: rgb(163, 206, 254);
+    width: 350px;
+    height:130px;
+    margin-left: 500px;
+ }
+ .I{
+    text-decoration: overline;
+    margin-top: 15px;
+    padding-top: 20px;
+ }
+ .J{ 
+    background-color: rgb(67, 67, 217);
+    color: #eee;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 10px;
+ }
+ .K{
+    background-color: blueviolet;
+    width: 450px;
+    height: 200px;
+    margin-left: 600px;
+    margin-top: 15px;
+     
+ }
+ .L{
+    background-color: rgb(195, 171, 218);
+    width: 360px;
+    height: 120px;
+    padding: 20px;
+    margin-left: 28px;
+    margin-top: 10px;
+    padding-top: 10px;
+ }
+ .M{
+    margin-left: 50px;
+ }
+ .list{
+    background-color: bisque;
+    margin: 10px 70px;
+    width: 300px;
+ }
+ .N{
+    background-color: rgb(197, 197, 118);
+    width: 550px;
+    height: 220px;
+    margin-top: 10px;
+    margin-left:700px;
+ }
+ .O{
+    padding: 10px;
+    font-size: 20PX;
+    font-weight: 800;
+ }
+ table {
+    background-color: aquamarine;
+    border-collapse: collapse;
+    width:450px;
+    margin-left:50px;
+    margin-top: 30px;
+  }
+  td, th {
+    border: 2px solid black;
+    text-align:center;
+  }
+  .h{
+    background-color: beige;
+  }
+  .d{
+    background-color: rgb(18, 102, 69);
+  }
